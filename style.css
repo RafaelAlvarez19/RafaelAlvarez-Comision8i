@@ -1,0 +1,19 @@
+img {
+    width: 450px;
+    height: 300px;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    font-style: oblique
+}
+
+button {
+    width: 150px;
+    margin: 5px;
+}
